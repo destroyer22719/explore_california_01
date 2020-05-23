@@ -2,4 +2,5 @@ hi there
 I am going to commit these seperately
 This is from the new branch
 hello from master branch
-hello fro new branch
+hello from new again
+
