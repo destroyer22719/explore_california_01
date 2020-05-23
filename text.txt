@@ -1,2 +1,3 @@
 hi there
-I am going to commit these seperatelythird line added changes
+I am going to commit these seperately
+This is from the new branch
